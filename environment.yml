@@ -1,0 +1,8 @@
+  
+name: hw5
+channels:
+  - conda-forge
+dependencies:
+  - ggplot2
+  - lubridate
+  - stringr
